@@ -1,4 +1,4 @@
-import cv2
+import cv2  
 
 # 얼굴 탐지를 위한 모델
 face_cascade = cv2.CascadeClassifier("data/haarcascade_frontalface_alt2.xml")
